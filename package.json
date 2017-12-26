@@ -1,0 +1,24 @@
+{
+  "name": "webproject",
+  "version": "1.0.0",
+  "description": "57160224 นางสาวณัชชา ผลวิริยะธรรม\r <br>58660010 นายธรรณธร จันทราช\r <br>58660044 นายชรัญธร วงศ์ไทย\r <br>58660020 นายสุวิจักขณ์ ดวงสุดา",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zestczbow/WebProj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zestczbow/WebProj/issues"
+  },
+  "homepage": "https://github.com/zestczbow/WebProj#readme"
+}
